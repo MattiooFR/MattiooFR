@@ -13,6 +13,9 @@ This is where I develop opensource stuff !
 📊 This week I spent my time on
 
 <!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->
 
 📕 My Latest Blog posts
