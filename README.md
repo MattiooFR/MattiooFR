@@ -2,9 +2,9 @@
 
 This is where I develop opensource stuff !
 
-* 🌱  I’m currently learning AI, ML and Full Stack with Python</li>
-* 📫  Reach me on : [LinkedIn](https://www.linkedin.com/in/mathieudugue/) | [Twitter](https://twitter.com/mattiooFR) | [Gmail](mailto:dugue.mathieu@gmail.com?subject=Hello%20Mathieu,%20From%20Github)
-* ⚡  Fun fact: I ❤️ 🐱<
+* 🌱⠀⠀I’m currently learning AI, ML and Full Stack with Python</li>
+* 📫⠀⠀Reach me on : [LinkedIn](https://www.linkedin.com/in/mathieudugue/) | [Twitter](https://twitter.com/mattiooFR) | [Gmail](mailto:dugue.mathieu@gmail.com?subject=Hello%20Mathieu,%20From%20Github)
+* ⚡⠀⠀Fun fact: I ❤️ 🐱<
 
 📊 This week I spent my time on
 
