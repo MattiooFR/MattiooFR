@@ -2,11 +2,11 @@
 
 This is where I develop opensource stuff !
 
-* 🌱⠀⠀I’m currently learning AI, ML and Full Stack with Python</li>
-* 📫⠀⠀Reach me on : [LinkedIn](https://www.linkedin.com/in/mathieudugue/) | [Twitter](https://twitter.com/mattiooFR) | [Gmail](mailto:dugue.mathieu@gmail.com?subject=Hello%20Mathieu,%20From%20Github)
-* ⚡⠀⠀Fun fact: I ❤️ 🐱<
+* 🌱⠀I’m currently learning AI, ML and Full Stack with Python</li>
+* 📫⠀Reach me on : [LinkedIn](https://www.linkedin.com/in/mathieudugue/) | [Twitter](https://twitter.com/mattiooFR) | [Gmail](mailto:dugue.mathieu@gmail.com?subject=Hello%20Mathieu,%20From%20Github)
+* ⚡⠀Fun fact: I ❤️ 🐱<
 
-📊 This week I spent my time on
+📊⠀This week I spent my time on
 
 <!--START_SECTION:waka-->
 ```text
@@ -14,7 +14,7 @@ No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
-📕 My Latest Blog posts
+📕⠀My Latest Blog posts
 
 <!-- BLOG-POST-LIST:START -->
 - [Create a blog with Pelican, hosted on Github/Netlify](https://dev.to/mattioo/create-a-blog-with-pelican-hosted-on-github-netlify-498p)
@@ -23,7 +23,7 @@ No Activity tracked this Week
 - [Create a blog using Nikola static website generator](https://dev.to/mattioo/create-a-blog-using-nikola-static-website-generator-l71)
 <!-- BLOG-POST-LIST:END -->
 
-💻 Check Out My Repos ⬇️
+💻⠀Check Out My Repos ⬇️
 
 <!--
 **MattiooFR/MattiooFR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
