@@ -17,6 +17,7 @@ No Activity tracked this Week
 📕⠀My Latest Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The no hello policy](https://dev.to/mattioo/the-no-hello-policy-13hn)
 - [Create a blog with Pelican, hosted on Github/Netlify](https://dev.to/mattioo/create-a-blog-with-pelican-hosted-on-github-netlify-498p)
 - [Using environment variables in a Flask + Heroku project](https://dev.to/mattioo/using-environment-variables-in-a-flask-heroku-project-1bn)
 - [Publish a package on PyPi using Poetry](https://dev.to/mattioo/publish-a-package-on-pypi-using-poetry-5e5)
