@@ -11,7 +11,6 @@ This is where I develop opensource stuff !
 <!--START_SECTION:waka-->
 ```text
 Python   1 hr 19 mins    █████████████████████████   99.96 % 
-TOML     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 ```
 <!--END_SECTION:waka-->
 
