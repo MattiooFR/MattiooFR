@@ -17,11 +17,11 @@ Python   1 hr 19 mins    ██████████████████�
 📕⠀My Latest Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Structuring a Python application](https://dev.to/mattioo/structuring-a-python-application-4a78)
 - [Create a proxy with a Raspberry Pi 3 (or above)](https://dev.to/mattioo/create-a-proxy-with-a-raspberry-pi-3-or-above-1gbc)
 - [How to cancel a pending ethereum transaction with MetaMask](https://dev.to/mattioo/how-to-cancel-a-pending-ethereum-transaction-with-metamask-4aah)
 - [The no hello policy](https://dev.to/mattioo/the-no-hello-policy-13hn)
 - [Create a blog with Pelican, hosted on Github/Netlify](https://dev.to/mattioo/create-a-blog-with-pelican-hosted-on-github-netlify-498p)
-- [Using environment variables in a Flask + Heroku project](https://dev.to/mattioo/using-environment-variables-in-a-flask-heroku-project-1bn)
 <!-- BLOG-POST-LIST:END -->
 
 💻⠀Check Out My Repos ⬇️
